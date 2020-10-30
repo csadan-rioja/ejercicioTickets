@@ -3,7 +3,7 @@
 Version Java: JavaSE-10
 
 Dependencias: 
-* lombok: https://tidelift.com/subscription/pkg/maven-org-projectlombok-lombok?utm_source=maven-org-projectlombok-lombok&utm_medium=referral&campaign=website
+* lombok: https://projectlombok.org/download
 
 ## Descargar repositorio en nuestro ordenador
 Para realizar los siguientes pasos primero debes instalar Git en tu ordenador (https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
