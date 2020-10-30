@@ -8,7 +8,7 @@ Dependencias:
 ## Descargar repositorio en nuestro ordenador
 Para realizar los siguientes pasos primero debes instalar Git en tu ordenador (https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
 
-1. Crear la carpeta donde queremos clonar el repositorio, es decir, la carpeta que queremosque contenga el código fuente que se encuentra en el repositorio.
+1. Crear la carpeta donde queremos clonar el repositorio, es decir, la carpeta que queremos que contenga el código fuente que se encuentra en el repositorio.
 2. Una vez situado dentro de la carpeta, ejecuta el siguiente comando para clonar el repositorio remoto:
 
 ```shell
